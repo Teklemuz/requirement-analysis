@@ -39,11 +39,11 @@
   - Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
 ### Types of Requirements
-### Functional Requirements: 
+### Functional Requirements 
  - Definition: Describe what the system should do.
 Examples: Hotel Management Service, Customer Service (Search + Booking), and View Booking Service.
 
-### Non-functional Requirements: 🛡️
+### Non-functional Requirements
 - Definition: Describe how the system should perform (Performance, security, scalability, usability, reliability).
  Example: Final Design
 
