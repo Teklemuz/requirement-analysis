@@ -47,3 +47,19 @@ Examples: Hotel Management Service, Customer Service (Search + Booking), and Vie
 - Definition: Describe how the system should perform (Performance, security, scalability, usability, reliability).
  Example: Final Design
 
+### Use Case Diagrams
+Objective: Visual representation of interactions between users and the system.
+What are Use Case Diagrams?
+- Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+#### Creating Use Case Diagrams:
+- Identify actors (e.g., guest, registered user, admin).
+- Define use cases (e.g., search properties, book property, manage listings).
+- Draw interactions between actors and use cases.
+
+#### Benefits of Use Case Diagrams:
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team.
+
+
